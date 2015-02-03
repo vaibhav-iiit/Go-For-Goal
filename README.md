@@ -10,7 +10,7 @@
 
  - Harendra Singh      [![][mailIcon]][mail harry]
  - Vaibhav Kumar       [![][mailIcon]][mail vaibhav]
- - Aproov Srivastava   [![][mailIcon]][mail aproov]
+ - Apoorv Srivastava   [![][mailIcon]][mail apoorv]
  
 
 ----------
@@ -47,7 +47,7 @@ Or else if the player reaches a place too far from the actual Goal then the play
 [lwjgl]: http://www.lwjgl.org/
 [mail harry]: mailto:harendrasingh@iiitdmj.ac.in
 [mail vaibhav]: mailto:vaibhaviiit@yahoo.in
-[mail aproov]: mailto:2011026@iiitdmj.ac.in
+[mail apoorv]: mailto:apoorv.iiit@gmail.com
 [mailIcon]: http://www.dallasculture.org/sdculturalcenter/images/email_icon.png
 [view 1]: http://s1.postimg.org/qwqpdvm2n/View_1_Small.png
 [view 2]: http://s1.postimg.org/f918x2mbj/View_2_Small.png

@@ -46,7 +46,7 @@ Or else if the player reaches a place too far from the actual Goal then the play
 
 [lwjgl]: http://www.lwjgl.org/
 [mail harry]: mailto:harendrasingh@iiitdmj.ac.in
-[mail vaibhav]: mailto:2011166@iiitdmj.ac.in
+[mail vaibhav]: mailto:vaibhaviiit@yahoo.in
 [mail aproov]: mailto:2011026@iiitdmj.ac.in
 [mailIcon]: http://www.dallasculture.org/sdculturalcenter/images/email_icon.png
 [view 1]: http://s1.postimg.org/qwqpdvm2n/View_1_Small.png
